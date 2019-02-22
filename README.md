@@ -22,6 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Launch Screen and Login Screen:
 
 <img src='http://g.recordit.co/OLxegURfM1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
