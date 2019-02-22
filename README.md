@@ -23,5 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Launch Screen and Login Screen:
+<img src='http://g.recordit.co/OLxegURfM1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Video of App with Tweets and Pull to Refresh
+<img src='http://g.recordit.co/KN70ga4Uzx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
