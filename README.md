@@ -22,11 +22,10 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 Launch Screen and Login Screen:
+
 <img src='http://g.recordit.co/OLxegURfM1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Video of App with Tweets and Pull to Refresh:
 
-
-Video of App with Tweets and Pull to Refresh
 <img src='http://g.recordit.co/KN70ga4Uzx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
