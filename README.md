@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 Launch Screen and Login Screen:
 
-<img src='http://g.recordit.co/OLxegURfM1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/nopKMmCbCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video of App with Tweets and Pull to Refresh:
 
